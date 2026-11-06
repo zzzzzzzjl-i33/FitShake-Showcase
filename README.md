@@ -18,7 +18,25 @@ FitShake 是一款面向健身人群的到店自取点单小程序。用户可�
 
 ## 功能截图
 
-> 截图整理中，可联系我获取真机演示。
+> 以下截图为真机运行效果。
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/home.png" width="210" /><br/><sub>首页 · 会员与今日推荐</sub></td>
+    <td align="center"><img src="screenshots/menu.png" width="210" /><br/><sub>点餐 · 分类与商品</sub></td>
+    <td align="center"><img src="screenshots/checkout.png" width="210" /><br/><sub>结算 · 备注与打包袋</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/order.png" width="210" /><br/><sub>订单 · 取餐码与备注</sub></td>
+    <td align="center"><img src="screenshots/store.png" width="210" /><br/><sub>门店 · 定位与导航</sub></td>
+    <td align="center"><img src="screenshots/mine.png" width="210" /><br/><sub>个人中心 · 会员等级</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/supplement.png" width="210" /><br/><sub>补剂科普 · 分类与用法</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 核心功能
 
